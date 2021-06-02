@@ -2,6 +2,8 @@ I :heart: finding security vulnerabilities and making things secure and fast.
 
 My recent contributions
 
+[DoS in IntelliJ](https://nvd.nist.gov/vuln/detail/CVE-2021-30504)
+
 [Hall of Fame SonarSource](https://community.sonarsource.com/t/responsible-vulnerability-disclosure/9317)
 
 [CSRF / RCE](https://github.com/bbyars/mountebank/blob/a875f5502ceaa439397a0075651e7fbd2ab810b9/src/views/releases/v2.3.3.ejs#L6-L17)
